@@ -31,5 +31,6 @@ function dec(number){
 return number - 1
 }
 
-function makeInt(2, 10)
-parseInt('2', 10)
+parseInt('2', 10){
+  return NaN
+}
