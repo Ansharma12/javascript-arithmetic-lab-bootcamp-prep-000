@@ -31,5 +31,5 @@ function dec(number){
 return number - 1
 }
 
-//function parseInt(2, 10)
+function makeInt(2, 10)
 parseInt('2', 10)
